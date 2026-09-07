@@ -2,10 +2,10 @@ about:
   description: "Pluggable and configurable code formatting platform that unifies all your formatters."
   license: MIT
   homepage: https://dprint.dev
-  head: e721ae7
+  head: 16a1175
   archived: false
   latestVersion: "0.57.4"
-  collectedAt: 2026-09-07T04:31:21Z
+  collectedAt: 2026-09-07T19:51:45Z
 timeline:
   created: 2019-06-16
   lastCommit: 2026-09-07
@@ -16,7 +16,7 @@ popularity:
   fork: 119
   release: 148
   contributor: 69
-  pullRequest: 523
+  pullRequest: 524
   issue: 561
 language:
   Rust: 2220245
@@ -34,61 +34,61 @@ recent:
   last30d:
     since: 2026-08-08
     release: 7
-    mergedPR: 24
+    mergedPR: 25
     openPR: 2
     closedIssue: 3
     openIssue: 0
-    commit: 0
+    commit: 36
   last60d:
     since: 2026-07-09
     release: 8
-    mergedPR: 36
+    mergedPR: 37
     openPR: 2
     closedIssue: 5
     openIssue: 0
-    commit: 0
+    commit: 46
   last90d:
     since: 2026-06-09
     release: 10
-    mergedPR: 87
+    mergedPR: 88
     openPR: 2
     closedIssue: 9
     openIssue: 2
-    commit: 0
+    commit: 102
   last180d:
     since: 2026-03-11
     release: 14
-    mergedPR: 115
+    mergedPR: 116
     openPR: 4
     closedIssue: 17
     openIssue: 6
-    commit: 0
+    commit: 125
   last360d:
     since: 2025-09-12
     release: 18
-    mergedPR: 152
+    mergedPR: 153
     openPR: 5
     closedIssue: 42
     openIssue: 12
-    commit: 0
+    commit: 173
   last720d:
     since: 2024-09-17
     release: 26
-    mergedPR: 191
+    mergedPR: 192
     openPR: 7
     closedIssue: 82
     openIssue: 29
-    commit: 222
+    commit: 223
 total:
   release: 148
-  mergedPR: 477
-  openPR: 10
+  mergedPR: 478
+  openPR: 9
   closedIssue: 499
   openIssue: 62
-  commit: 1357
+  commit: 1358
 ---
 path: /home/runner/.x-repo/github.com/dprint/dprint
-collectedAt: 2026-09-07T04:31:30Z
+collectedAt: 2026-09-07T19:51:53Z
 loc:
   Rust:
     code: 51915
@@ -259,7 +259,7 @@ checks:
       - 'Warn: 0 commits out of 26 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:31:30+00:00
+  collectedAt: 2026-09-07T19:51:54+00:00
   platform:
     darwin/arm64:
       name:  dprint-aarch64-apple-darwin.zip
