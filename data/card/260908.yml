@@ -5,7 +5,7 @@ about:
   head: 16a1175
   archived: false
   latestVersion: "0.57.4"
-  collectedAt: 2026-09-08T01:58:59Z
+  collectedAt: 2026-09-08T04:30:49Z
 timeline:
   created: 2019-06-16
   lastCommit: 2026-09-07
@@ -88,7 +88,7 @@ total:
   commit: 1358
 ---
 path: /home/runner/.x-repo/github.com/dprint/dprint
-collectedAt: 2026-09-08T01:59:08Z
+collectedAt: 2026-09-08T04:30:55Z
 loc:
   Rust:
     code: 51915
