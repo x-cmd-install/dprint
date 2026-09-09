@@ -7,7 +7,7 @@ Pluggable and configurable code formatting platform that unifies all your format
 - **Latest release**: `0.57.4` (2026-09-05)
 - **Last commit**: 2026-09-07
 - **License**: MIT
-- **Stars**: 4068 · **Forks**: 119 · **Open issues**: 561 · **Contributors**: 69
+- **Stars**: 4069 · **Forks**: 119 · **Open issues**: 561 · **Contributors**: 69
 
 ## Installation
 
@@ -19,6 +19,6 @@ See <https://x-cmd.com/install/dprint> for details.
 
 ## Data
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260908.yml`. Merged card+release view: `data/latest.report.yml`.
+This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-08T10:35:44Z._
+_Last regenerated: 2026-09-09T04:41:50Z._
