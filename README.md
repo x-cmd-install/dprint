@@ -12,6 +12,28 @@ Pluggable and configurable code formatting platform that unifies all your format
 x install dprint
 ```
 
+## Code insight
+
+Total: **57,366** lines of code across **198** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 52,297 | 2,423 | 5,698 | 165 |
+| JavaScript | 1,329 | 186 | 144 | 11 |
+| Sass | 1,110 | 34 | 60 | 2 |
+| TypeScript | 1,001 | 38 | 137 | 15 |
+| Tsx | 559 | 11 | 70 | 5 |
+
+## OpenSSF Scorecard
+
+Overall score: **5.2 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+
 ## Source
 
 - **Upstream**: <https://github.com/dprint/dprint>
@@ -23,6 +45,25 @@ x install dprint
 - **Latest**: `0.57.4` (2026-09-05)
 - **Last commit**: 2026-09-10
 - **Assets in release**: 17
+
+## Popularity
+
+- **Stars**: 4,067 · **Forks**: 119 · **Open issues**: 561 · **Contributors**: 69
+
+## Totals (cumulative)
+
+- **Releases**: 148 · **Merged PRs**: 480 · **Open PRs**: 10 · **Closed issues**: 500 · **Open issues**: 61 · **Commits**: 1360
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 7 | 26 | 3 | 3 | 0 | 38 |
+| last60d | 2026-07-12 | 8 | 38 | 3 | 5 | 0 | 48 |
+| 90d | 2026-06-12 | 10 | 90 | 3 | 9 | 2 | 104 |
+| last180d | 2026-03-14 | 14 | 118 | 5 | 17 | 6 | 127 |
+| 360d | 2025-09-15 | 17 | 155 | 6 | 43 | 11 | 175 |
+| last720d | 2024-09-20 | 26 | 193 | 8 | 83 | 28 | 225 |
 
 ## Release assets
 
@@ -46,43 +87,16 @@ x install dprint
 | [dprint-x86_64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-unknown-linux-musl.zip) | 10.2 MiB | `native/linux/x64/musl` |
 | [SHASUMS256.txt](https://github.com/dprint/dprint/releases/download/0.57.4/SHASUMS256.txt) | 1.6 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 4,067 · **Forks**: 119 · **Open issues**: 561 · **Contributors**: 69
+Reported by **21** distros on [repology.org](https://repology.org/project/dprint). **8** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 148 · **Merged PRs**: 480 · **Open PRs**: 9 · **Closed issues**: 500 · **Open issues**: 61 · **Commits**: 1360
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 7 | 26 | 2 | 3 | 0 | 38 |
-| 90d | 2026-06-12 | 10 | 90 | 2 | 9 | 2 | 104 |
-| 360d | 2025-09-15 | 17 | 155 | 5 | 43 | 11 | 175 |
-
-## Code size
-
-Total: **57,366** lines of code across **198** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 52,297 | 2,423 | 5,698 | 165 |
-| JavaScript | 1,329 | 186 | 144 | 11 |
-| Sass | 1,110 | 34 | 60 | 2 |
-| TypeScript | 1,001 | 38 | 137 | 15 |
-| Tsx | 559 | 11 | 70 | 5 |
-
-## OpenSSF Scorecard
-
-Overall score: **5.2 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
-- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Arch | `0.57.4` | ✅ latest |
+| Homebrew | `0.57.4` | ✅ latest |
+| Nix unstable | `0.57.4` | ✅ latest |
+| Alpine edge | `0.51.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -93,4 +107,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:20:30Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:16:17Z._
