@@ -7,7 +7,7 @@ about:
   latestVersion: "0.57.4"
   latestRelease: "0.57.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T16:20:19Z
+  collectedAt: 2026-09-10T20:16:06Z
 timeline:
   created: 2019-06-16
   lastCommit: 2026-09-10
@@ -20,7 +20,7 @@ popularity:
   fork: 119
   release: 148
   contributor: 69
-  pullRequest: 526
+  pullRequest: 527
   issue: 561
 language:
   Rust: 2239117
@@ -39,7 +39,7 @@ recent:
     since: 2026-08-11
     release: 7
     mergedPR: 26
-    openPR: 2
+    openPR: 3
     closedIssue: 3
     openIssue: 0
     commit: 38
@@ -47,7 +47,7 @@ recent:
     since: 2026-07-12
     release: 8
     mergedPR: 38
-    openPR: 2
+    openPR: 3
     closedIssue: 5
     openIssue: 0
     commit: 48
@@ -55,7 +55,7 @@ recent:
     since: 2026-06-12
     release: 10
     mergedPR: 90
-    openPR: 2
+    openPR: 3
     closedIssue: 9
     openIssue: 2
     commit: 104
@@ -63,7 +63,7 @@ recent:
     since: 2026-03-14
     release: 14
     mergedPR: 118
-    openPR: 4
+    openPR: 5
     closedIssue: 17
     openIssue: 6
     commit: 127
@@ -71,7 +71,7 @@ recent:
     since: 2025-09-15
     release: 17
     mergedPR: 155
-    openPR: 5
+    openPR: 6
     closedIssue: 43
     openIssue: 11
     commit: 175
@@ -79,20 +79,20 @@ recent:
     since: 2024-09-20
     release: 26
     mergedPR: 193
-    openPR: 7
+    openPR: 8
     closedIssue: 83
     openIssue: 28
     commit: 225
 total:
   release: 148
   mergedPR: 480
-  openPR: 9
+  openPR: 10
   closedIssue: 500
   openIssue: 61
   commit: 1360
 ---
 path: /home/runner/.x-repo/github.com/dprint/dprint
-collectedAt: 2026-09-10T16:20:25Z
+collectedAt: 2026-09-10T20:16:11Z
 loc:
   Rust:
     code: 52297

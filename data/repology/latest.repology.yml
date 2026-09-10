@@ -1,0 +1,242 @@
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: dprint
+  binname: dprint
+  visiblename: dprint
+  version: 0.57.4
+  origversion: 0.57.4-1
+  status: newest
+  summary: Pluggable and configurable code formatting platform
+  licenses:
+    - MIT
+- repo: manjaro_testing
+  subrepo: extra
+  srcname: dprint
+  binname: dprint
+  visiblename: dprint
+  version: 0.57.4
+  origversion: 0.57.4-1
+  status: newest
+  summary: Pluggable and configurable code formatting platform
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: dprint
+  binname: dprint
+  visiblename: dprint
+  version: 0.57.4
+  origversion: 0.57.4-1
+  status: newest
+  summary: Pluggable and configurable code formatting platform
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: dprint
+  visiblename: dprint
+  version: 0.50.2
+  origversion: null
+  status: outdated
+  summary: Code formatting platform written in Rust
+  maintainers:
+    - khushraj.rathod@gmail.com
+    - kachick1@gmail.com
+    - phanirithvij2000@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: dprint
+  visiblename: dprint
+  version: 0.45.1
+  origversion: null
+  status: outdated
+  summary: Code formatting platform written in Rust
+  maintainers:
+    - khushraj.rathod@gmail.com
+  licenses:
+    - MIT
+- repo: macports
+  srcname: devel/dprint
+  binname: dprint
+  visiblename: dprint
+  version: 0.50.1
+  origversion: null
+  status: outdated
+  summary: Pluggable and configurable code formatting platform written in Rust
+  maintainers:
+    - harens@macports
+    - harens@github
+  licenses:
+    - MIT
+  categories:
+    - devel
+- repo: alpine_edge
+  subrepo: testing
+  srcname: dprint
+  binname: dprint
+  visiblename: dprint
+  version: 0.51.1
+  origversion: 0.51.1-r0
+  status: outdated
+  summary: Pluggable and configurable code formatting platform written in Rust
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: dprint
+  binname: dprint-bash-completion
+  visiblename: dprint-bash-completion
+  version: 0.51.1
+  origversion: 0.51.1-r0
+  status: outdated
+  summary: Bash completions for dprint
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: dprint
+  binname: dprint-doc
+  visiblename: dprint-doc
+  version: 0.51.1
+  origversion: 0.51.1-r0
+  status: outdated
+  summary: Pluggable and configurable code formatting platform written in Rust (documentation)
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: dprint
+  binname: dprint-fish-completion
+  visiblename: dprint-fish-completion
+  version: 0.51.1
+  origversion: 0.51.1-r0
+  status: outdated
+  summary: Fish completions for dprint
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - MIT
+- repo: alpine_edge
+  subrepo: testing
+  srcname: dprint
+  binname: dprint-zsh-completion
+  visiblename: dprint-zsh-completion
+  version: 0.51.1
+  origversion: 0.51.1-r0
+  status: outdated
+  summary: Zsh completions for dprint
+  maintainers:
+    - qaq@qaq.land
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: dprint
+  binname: dprint
+  visiblename: dprint
+  version: 0.57.4
+  origversion: 0.57.4-1
+  status: newest
+  summary: Pluggable and configurable code formatting platform
+  licenses:
+    - MIT
+- repo: aur
+  srcname: dprint-git
+  binname: dprint-git
+  visiblename: dprint-git
+  version: 0.51.1.r13.g3269ae18
+  origversion: 0.51.1.r13.g3269ae18-1
+  status: rolling
+  summary: A pluggable and configurable code formatting platform written in Rust
+  maintainers:
+    - chocobo1@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: dprint
+  visiblename: dprint
+  version: 0.57.4
+  origversion: null
+  status: newest
+  summary: Pluggable and configurable code formatting platform written in Rust
+- repo: homebrew
+  srcname: dprint
+  visiblename: dprint
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Pluggable and configurable code formatting platform written in Rust
+- repo: nix_stable_24_11
+  srcname: dprint
+  visiblename: dprint
+  version: 0.47.2
+  origversion: null
+  status: outdated
+  summary: Code formatting platform written in Rust
+  maintainers:
+    - khushraj.rathod@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: dprint
+  visiblename: dprint
+  version: 0.54.0
+  origversion: null
+  status: outdated
+  summary: Code formatting platform written in Rust
+  maintainers:
+    - khushraj.rathod@gmail.com
+    - kachick1@gmail.com
+    - phanirithvij2000@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: dprint
+  visiblename: dprint
+  version: 0.54.0
+  origversion: null
+  status: outdated
+  summary: Code formatting platform written in Rust
+  maintainers:
+    - kachick1@gmail.com
+    - phanirithvij2000@gmail.com
+  licenses:
+    - MIT
+- repo: nix_unstable
+  srcname: dprint
+  visiblename: dprint
+  version: 0.57.4
+  origversion: null
+  status: newest
+  summary: Code formatting platform written in Rust
+  maintainers:
+    - kachick1@gmail.com
+    - phanirithvij2000@gmail.com
+  licenses:
+    - MIT
+- repo: parabola
+  subrepo: extra
+  srcname: dprint
+  binname: dprint
+  visiblename: dprint
+  version: 0.57.4
+  origversion: 0.57.4-1
+  status: newest
+  summary: Pluggable and configurable code formatting platform
+  licenses:
+    - MIT
+- repo: scoop
+  subrepo: main
+  binname: dprint
+  visiblename: dprint
+  version: 0.57.4
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
