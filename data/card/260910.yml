@@ -7,7 +7,7 @@ about:
   latestVersion: "0.57.4"
   latestRelease: "0.57.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:16:06Z
+  collectedAt: 2026-09-10T23:26:54Z
 timeline:
   created: 2019-06-16
   lastCommit: 2026-09-10
@@ -92,7 +92,7 @@ total:
   commit: 1360
 ---
 path: /home/runner/.x-repo/github.com/dprint/dprint
-collectedAt: 2026-09-10T20:16:11Z
+collectedAt: 2026-09-10T23:27:00Z
 loc:
   Rust:
     code: 52297
