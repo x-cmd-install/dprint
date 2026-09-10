@@ -4,7 +4,7 @@
 
 Pluggable and configurable code formatting platform that unifies all your formatters.
 
-![dprint](https://repo.x-cmd.io/dprint.svg)
+![dprint](https://repo.x-cmd.io/dprint.svg?lang=zh)
 
 ## 安装
 
@@ -21,9 +21,30 @@ x install dprint
 ## 发布
 
 - **最新版本**: `0.57.4` (2026-09-05)
-- **最近提交**: 2026-09-07
+- **最近提交**: 2026-09-10
 - **Release 含资产**: 17 个
-- **发布时间**: 2026-09-05T22:02:39Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [dprint-aarch64-apple-darwin.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-aarch64-apple-darwin.zip) | 8.4 MiB | `native/darwin/arm64` |
+| [dprint-aarch64-linux-android.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-aarch64-linux-android.zip) | 8.6 MiB | `native/linux/arm64` |
+| [dprint-aarch64-pc-windows-msvc.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-aarch64-pc-windows-msvc.zip) | 7.3 MiB | `native/win/arm64` |
+| [dprint-aarch64-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-aarch64-unknown-linux-gnu.zip) | 7.4 MiB | `native/linux/arm64/glibc` |
+| [dprint-aarch64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-aarch64-unknown-linux-musl.zip) | 9.3 MiB | `native/linux/arm64/musl` |
+| [dprint-loongarch64-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-loongarch64-unknown-linux-gnu.zip) | 8.8 MiB | `other` |
+| [dprint-loongarch64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-loongarch64-unknown-linux-musl.zip) | 8.8 MiB | `other` |
+| [dprint-powerpc64le-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-powerpc64le-unknown-linux-gnu.zip) | 10.3 MiB | `other` |
+| [dprint-powerpc64le-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-powerpc64le-unknown-linux-musl.zip) | 10.2 MiB | `other` |
+| [dprint-riscv64gc-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-riscv64gc-unknown-linux-gnu.zip) | 9.6 MiB | `native/linux/riscv64/glibc` |
+| [dprint-x86_64-apple-darwin.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-apple-darwin.zip) | 9.2 MiB | `native/darwin/x64` |
+| [dprint-x86_64-linux-android.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-linux-android.zip) | 9.5 MiB | `native/linux/x64` |
+| [dprint-x86_64-pc-windows-msvc-installer.exe](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-pc-windows-msvc-installer.exe) | 8.7 MiB | `native/win/x64` |
+| [dprint-x86_64-pc-windows-msvc.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-pc-windows-msvc.zip) | 8.3 MiB | `native/win/x64` |
+| [dprint-x86_64-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-unknown-linux-gnu.zip) | 8.4 MiB | `native/linux/x64/glibc` |
+| [dprint-x86_64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-unknown-linux-musl.zip) | 10.2 MiB | `native/linux/x64/musl` |
+| [SHASUMS256.txt](https://github.com/dprint/dprint/releases/download/0.57.4/SHASUMS256.txt) | 1.6 KiB | `other` |
 
 ## 流行度
 
@@ -31,24 +52,24 @@ x install dprint
 
 ## 累计统计
 
-- **发布数**: 148 · **已合并 PR**: 478 · **开放 PR**: 10 · **已关闭 issue**: 499 · **开放 issue**: 62 · **提交数**: 1358
+- **发布数**: 148 · **已合并 PR**: 480 · **开放 PR**: 9 · **已关闭 issue**: 500 · **开放 issue**: 61 · **提交数**: 1360
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 7 | 24 | 3 | 3 | 0 | 36 |
-| 90d | 2026-06-12 | 10 | 88 | 3 | 9 | 2 | 102 |
-| 360d | 2025-09-15 | 17 | 153 | 6 | 42 | 12 | 173 |
+| 30d | 2026-08-11 | 7 | 26 | 2 | 3 | 0 | 38 |
+| 90d | 2026-06-12 | 10 | 90 | 2 | 9 | 2 | 104 |
+| 360d | 2025-09-15 | 17 | 155 | 5 | 43 | 11 | 175 |
 
 ## 代码规模
 
-合计: **56,981** 行代码（覆盖前 5 种语言、共 **198** 个文件）。
+合计: **57,366** 行代码（覆盖前 5 种语言、共 **198** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 51,915 | 2,405 | 5,673 | 165 |
-| JavaScript | 1,326 | 186 | 144 | 11 |
+| Rust | 52,297 | 2,423 | 5,698 | 165 |
+| JavaScript | 1,329 | 186 | 144 | 11 |
 | Sass | 1,110 | 34 | 60 | 2 |
 | TypeScript | 1,001 | 38 | 137 | 15 |
 | Tsx | 559 | 11 | 70 | 5 |
@@ -72,4 +93,4 @@ dprint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:35:08Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:20:31Z._

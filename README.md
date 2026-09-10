@@ -21,9 +21,30 @@ x install dprint
 ## Release
 
 - **Latest**: `0.57.4` (2026-09-05)
-- **Last commit**: 2026-09-07
+- **Last commit**: 2026-09-10
 - **Assets in release**: 17
-- **Published**: 2026-09-05T22:02:39Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dprint-aarch64-apple-darwin.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-aarch64-apple-darwin.zip) | 8.4 MiB | `native/darwin/arm64` |
+| [dprint-aarch64-linux-android.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-aarch64-linux-android.zip) | 8.6 MiB | `native/linux/arm64` |
+| [dprint-aarch64-pc-windows-msvc.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-aarch64-pc-windows-msvc.zip) | 7.3 MiB | `native/win/arm64` |
+| [dprint-aarch64-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-aarch64-unknown-linux-gnu.zip) | 7.4 MiB | `native/linux/arm64/glibc` |
+| [dprint-aarch64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-aarch64-unknown-linux-musl.zip) | 9.3 MiB | `native/linux/arm64/musl` |
+| [dprint-loongarch64-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-loongarch64-unknown-linux-gnu.zip) | 8.8 MiB | `other` |
+| [dprint-loongarch64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-loongarch64-unknown-linux-musl.zip) | 8.8 MiB | `other` |
+| [dprint-powerpc64le-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-powerpc64le-unknown-linux-gnu.zip) | 10.3 MiB | `other` |
+| [dprint-powerpc64le-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-powerpc64le-unknown-linux-musl.zip) | 10.2 MiB | `other` |
+| [dprint-riscv64gc-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-riscv64gc-unknown-linux-gnu.zip) | 9.6 MiB | `native/linux/riscv64/glibc` |
+| [dprint-x86_64-apple-darwin.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-apple-darwin.zip) | 9.2 MiB | `native/darwin/x64` |
+| [dprint-x86_64-linux-android.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-linux-android.zip) | 9.5 MiB | `native/linux/x64` |
+| [dprint-x86_64-pc-windows-msvc-installer.exe](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-pc-windows-msvc-installer.exe) | 8.7 MiB | `native/win/x64` |
+| [dprint-x86_64-pc-windows-msvc.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-pc-windows-msvc.zip) | 8.3 MiB | `native/win/x64` |
+| [dprint-x86_64-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-unknown-linux-gnu.zip) | 8.4 MiB | `native/linux/x64/glibc` |
+| [dprint-x86_64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-unknown-linux-musl.zip) | 10.2 MiB | `native/linux/x64/musl` |
+| [SHASUMS256.txt](https://github.com/dprint/dprint/releases/download/0.57.4/SHASUMS256.txt) | 1.6 KiB | `other` |
 
 ## Popularity
 
@@ -31,24 +52,24 @@ x install dprint
 
 ## Totals (cumulative)
 
-- **Releases**: 148 · **Merged PRs**: 478 · **Open PRs**: 10 · **Closed issues**: 499 · **Open issues**: 62 · **Commits**: 1358
+- **Releases**: 148 · **Merged PRs**: 480 · **Open PRs**: 9 · **Closed issues**: 500 · **Open issues**: 61 · **Commits**: 1360
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 7 | 24 | 3 | 3 | 0 | 36 |
-| 90d | 2026-06-12 | 10 | 88 | 3 | 9 | 2 | 102 |
-| 360d | 2025-09-15 | 17 | 153 | 6 | 42 | 12 | 173 |
+| 30d | 2026-08-11 | 7 | 26 | 2 | 3 | 0 | 38 |
+| 90d | 2026-06-12 | 10 | 90 | 2 | 9 | 2 | 104 |
+| 360d | 2025-09-15 | 17 | 155 | 5 | 43 | 11 | 175 |
 
 ## Code size
 
-Total: **56,981** lines of code across **198** files in the top 5 languages.
+Total: **57,366** lines of code across **198** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 51,915 | 2,405 | 5,673 | 165 |
-| JavaScript | 1,326 | 186 | 144 | 11 |
+| Rust | 52,297 | 2,423 | 5,698 | 165 |
+| JavaScript | 1,329 | 186 | 144 | 11 |
 | Sass | 1,110 | 34 | 60 | 2 |
 | TypeScript | 1,001 | 38 | 137 | 15 |
 | Tsx | 559 | 11 | 70 | 5 |
@@ -68,8 +89,8 @@ Lowest-scoring checks:
 Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dprint` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/dprint.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/dprint.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:35:07Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:20:30Z._
