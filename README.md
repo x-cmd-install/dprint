@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 7 | 28 | 2 | 4 | 0 | 40 |
-| last60d | 2026-07-15 | 7 | 38 | 2 | 6 | 0 | 50 |
-| 90d | 2026-06-15 | 10 | 92 | 2 | 11 | 1 | 106 |
-| last180d | 2026-03-17 | 13 | 114 | 3 | 19 | 5 | 129 |
-| 360d | 2025-09-18 | 17 | 157 | 5 | 45 | 10 | 177 |
-| last720d | 2024-09-23 | 26 | 195 | 7 | 84 | 27 | 227 |
+| 30d | 2026-08-15 | 7 | 28 | 2 | 4 | 0 | 29 |
+| last60d | 2026-07-16 | 7 | 38 | 2 | 6 | 0 | 48 |
+| 90d | 2026-06-16 | 10 | 91 | 2 | 11 | 1 | 79 |
+| last180d | 2026-03-18 | 13 | 114 | 3 | 19 | 5 | 129 |
+| 360d | 2025-09-19 | 17 | 157 | 5 | 45 | 10 | 176 |
+| last720d | 2024-09-24 | 26 | 195 | 7 | 84 | 27 | 227 |
 
 ## Release assets
 
@@ -87,17 +87,6 @@ Lowest-scoring checks:
 | [dprint-x86_64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.57.4/dprint-x86_64-unknown-linux-musl.zip) | 10.2 MiB | `native/linux/x64/musl` |
 | [SHASUMS256.txt](https://github.com/dprint/dprint/releases/download/0.57.4/SHASUMS256.txt) | 1.6 KiB | `other` |
 
-## Distribution status
-
-Reported by **21** distros on [repology.org](https://repology.org/project/dprint). **8** are ✅ on the latest upstream release, **11** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.57.4` | ✅ latest |
-| Homebrew | `0.57.4` | ✅ latest |
-| Nix unstable | `0.57.4` | ✅ latest |
-| Alpine edge | `0.51.1` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dprint` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -107,4 +96,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:44:41Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:51:15Z._
