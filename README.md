@@ -4,7 +4,7 @@
 
 Pluggable and configurable code formatting platform that unifies all your formatters.
 
-![dprint](https://repo.x-cmd.io/dprint.svg)
+[![x-cmd/install — dprint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dprint.svg)](https://x-cmd.com/install/dprint)
 
 ## Install
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 23 | 2 | 3 | 0 | 30 |
-| last60d | 2026-07-20 | 7 | 39 | 2 | 6 | 0 | 49 |
-| 90d | 2026-06-20 | 10 | 71 | 2 | 11 | 0 | 80 |
-| last180d | 2026-03-22 | 13 | 114 | 3 | 17 | 3 | 130 |
-| 360d | 2025-09-23 | 17 | 158 | 5 | 45 | 10 | 177 |
-| last720d | 2024-09-28 | 26 | 196 | 7 | 83 | 26 | 228 |
+| 30d | 2026-08-21 | 6 | 20 | 2 | 2 | 0 | 30 |
+| last60d | 2026-07-22 | 7 | 38 | 2 | 5 | 0 | 49 |
+| 90d | 2026-06-22 | 10 | 63 | 2 | 11 | 0 | 80 |
+| last180d | 2026-03-24 | 13 | 114 | 3 | 16 | 3 | 130 |
+| 360d | 2025-09-25 | 17 | 158 | 5 | 45 | 10 | 177 |
+| last720d | 2024-09-30 | 26 | 196 | 7 | 83 | 26 | 228 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:43:12Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:55:05Z._

@@ -4,7 +4,7 @@
 
 Pluggable and configurable code formatting platform that unifies all your formatters.
 
-![dprint](https://repo.x-cmd.io/dprint.svg?lang=zh)
+[![x-cmd/install — dprint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/dprint.svg?lang=zh)](https://x-cmd.com/install/dprint)
 
 ## 安装
 
@@ -58,12 +58,12 @@ x install dprint
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 23 | 2 | 3 | 0 | 30 |
-| last60d | 2026-07-20 | 7 | 39 | 2 | 6 | 0 | 49 |
-| 90d | 2026-06-20 | 10 | 71 | 2 | 11 | 0 | 80 |
-| last180d | 2026-03-22 | 13 | 114 | 3 | 17 | 3 | 130 |
-| 360d | 2025-09-23 | 17 | 158 | 5 | 45 | 10 | 177 |
-| last720d | 2024-09-28 | 26 | 196 | 7 | 83 | 26 | 228 |
+| 30d | 2026-08-21 | 6 | 20 | 2 | 2 | 0 | 30 |
+| last60d | 2026-07-22 | 7 | 38 | 2 | 5 | 0 | 49 |
+| 90d | 2026-06-22 | 10 | 63 | 2 | 11 | 0 | 80 |
+| last180d | 2026-03-24 | 13 | 114 | 3 | 16 | 3 | 130 |
+| 360d | 2025-09-25 | 17 | 158 | 5 | 45 | 10 | 177 |
+| last720d | 2024-09-30 | 26 | 196 | 7 | 83 | 26 | 228 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ dprint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:43:12Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:55:06Z._
