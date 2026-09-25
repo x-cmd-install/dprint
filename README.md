@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 5 | 19 | 2 | 2 | 0 | 24 |
-| last60d | 2026-07-26 | 7 | 37 | 2 | 5 | 0 | 47 |
-| 90d | 2026-06-26 | 10 | 52 | 2 | 11 | 0 | 53 |
-| last180d | 2026-03-28 | 12 | 111 | 3 | 16 | 3 | 125 |
-| 360d | 2025-09-29 | 17 | 158 | 5 | 44 | 10 | 177 |
-| last720d | 2024-10-04 | 26 | 196 | 7 | 82 | 26 | 228 |
+| 30d | 2026-08-26 | 5 | 17 | 2 | 2 | 0 | 24 |
+| last60d | 2026-07-27 | 7 | 37 | 2 | 5 | 0 | 47 |
+| 90d | 2026-06-27 | 10 | 45 | 2 | 11 | 0 | 53 |
+| last180d | 2026-03-29 | 12 | 111 | 3 | 16 | 3 | 125 |
+| 360d | 2025-09-30 | 17 | 158 | 5 | 44 | 10 | 177 |
+| last720d | 2024-10-05 | 26 | 196 | 7 | 82 | 26 | 228 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T04:43:04Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T04:51:15Z._
