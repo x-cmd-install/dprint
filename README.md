@@ -14,11 +14,11 @@ x install dprint
 
 ## Code insight
 
-Total: **58,679** lines of code across **198** files in the top 5 languages.
+Total: **61,535** lines of code across **202** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 53,607 | 2,500 | 5,811 | 165 |
+| Rust | 56,463 | 3,163 | 6,084 | 169 |
 | JavaScript | 1,331 | 186 | 144 | 11 |
 | Sass | 1,110 | 34 | 60 | 2 |
 | TypeScript | 1,001 | 38 | 137 | 15 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.58.0` (2026-09-29)
-- **Last commit**: 2026-09-30
+- **Last commit**: 2026-10-01
 - **Assets in release**: 17
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 149 · **Merged PRs**: 491 · **Open PRs**: 8 · **Closed issues**: 503 · **Open issues**: 59 · **Commits**: 1372
+- **Releases**: 149 · **Merged PRs**: 507 · **Open PRs**: 8 · **Closed issues**: 503 · **Open issues**: 59 · **Commits**: 1388
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 5 | 21 | 1 | 2 | 0 | 22 |
-| last60d | 2026-08-02 | 8 | 44 | 1 | 5 | 0 | 50 |
-| 90d | 2026-07-03 | 9 | 50 | 1 | 7 | 0 | 62 |
-| last180d | 2026-04-04 | 12 | 114 | 2 | 14 | 2 | 129 |
-| 360d | 2025-10-06 | 18 | 166 | 4 | 44 | 10 | 186 |
-| last720d | 2024-10-11 | 27 | 204 | 6 | 82 | 26 | 237 |
+| 30d | 2026-09-02 | 5 | 37 | 1 | 2 | 0 | 38 |
+| last60d | 2026-08-03 | 8 | 56 | 1 | 5 | 0 | 66 |
+| 90d | 2026-07-04 | 9 | 66 | 1 | 7 | 0 | 78 |
+| last180d | 2026-04-05 | 12 | 130 | 2 | 14 | 2 | 145 |
+| 360d | 2025-10-07 | 18 | 182 | 4 | 44 | 9 | 202 |
+| last720d | 2024-10-12 | 27 | 220 | 6 | 82 | 26 | 253 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T05:44:29Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:31:56Z._
