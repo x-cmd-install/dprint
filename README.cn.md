@@ -26,11 +26,11 @@ x install dprint
 
 ## OpenSSF Scorecard 评分
 
-总评分: **5.2 / 10**
+总评分: **5.1 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ x install dprint
 ## 发布
 
 - **最新版本**: `0.60.1` (2026-10-03)
-- **最近提交**: 2026-10-04
+- **最近提交**: 2026-10-06
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 4,088 · **Fork**: 118 · **开放 issue**: 564 · **贡献者**: 69
+- **Star**: 4,088 · **Fork**: 119 · **开放 issue**: 564 · **贡献者**: 69
 
 ## 累计统计
 
-- **发布数**: 152 · **已合并 PR**: 520 · **开放 PR**: 9 · **已关闭 issue**: 518 · **开放 issue**: 46 · **提交数**: 1404
+- **发布数**: 152 · **已合并 PR**: 521 · **开放 PR**: 9 · **已关闭 issue**: 518 · **开放 issue**: 46 · **提交数**: 1405
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 4 | 42 | 1 | 2 | 1 | 44 |
-| last60d | 2026-08-07 | 11 | 67 | 2 | 5 | 1 | 82 |
-| 90d | 2026-07-08 | 12 | 79 | 2 | 7 | 1 | 94 |
-| last180d | 2026-04-09 | 14 | 140 | 3 | 14 | 3 | 157 |
-| 360d | 2025-10-11 | 21 | 195 | 5 | 45 | 10 | 218 |
-| last720d | 2024-10-16 | 30 | 231 | 7 | 86 | 23 | 266 |
+| 30d | 2026-09-07 | 4 | 42 | 1 | 2 | 1 | 45 |
+| last60d | 2026-08-08 | 11 | 68 | 2 | 5 | 1 | 83 |
+| 90d | 2026-07-09 | 12 | 80 | 2 | 7 | 1 | 95 |
+| last180d | 2026-04-10 | 14 | 141 | 3 | 14 | 3 | 158 |
+| 360d | 2025-10-12 | 21 | 196 | 5 | 45 | 10 | 219 |
+| last720d | 2024-10-17 | 30 | 232 | 7 | 86 | 23 | 267 |
 
 ## Release 资产
 
@@ -96,4 +96,4 @@ dprint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261006.yml` · 2026-10-06T06:15:16Z._
+_数据快照: `data/card/261007.yml` · 2026-10-07T05:50:07Z._

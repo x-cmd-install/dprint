@@ -26,11 +26,11 @@ Total: **63,964** lines of code across **204** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.2 / 10**
+Overall score: **5.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
+- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.60.1` (2026-10-03)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-06
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 4,088 · **Forks**: 118 · **Open issues**: 564 · **Contributors**: 69
+- **Stars**: 4,088 · **Forks**: 119 · **Open issues**: 564 · **Contributors**: 69
 
 ## Totals (cumulative)
 
-- **Releases**: 152 · **Merged PRs**: 520 · **Open PRs**: 9 · **Closed issues**: 518 · **Open issues**: 46 · **Commits**: 1404
+- **Releases**: 152 · **Merged PRs**: 521 · **Open PRs**: 9 · **Closed issues**: 518 · **Open issues**: 46 · **Commits**: 1405
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 4 | 42 | 1 | 2 | 1 | 44 |
-| last60d | 2026-08-07 | 11 | 67 | 2 | 5 | 1 | 82 |
-| 90d | 2026-07-08 | 12 | 79 | 2 | 7 | 1 | 94 |
-| last180d | 2026-04-09 | 14 | 140 | 3 | 14 | 3 | 157 |
-| 360d | 2025-10-11 | 21 | 195 | 5 | 45 | 10 | 218 |
-| last720d | 2024-10-16 | 30 | 231 | 7 | 86 | 23 | 266 |
+| 30d | 2026-09-07 | 4 | 42 | 1 | 2 | 1 | 45 |
+| last60d | 2026-08-08 | 11 | 68 | 2 | 5 | 1 | 83 |
+| 90d | 2026-07-09 | 12 | 80 | 2 | 7 | 1 | 95 |
+| last180d | 2026-04-10 | 14 | 141 | 3 | 14 | 3 | 158 |
+| 360d | 2025-10-12 | 21 | 196 | 5 | 45 | 10 | 219 |
+| last720d | 2024-10-17 | 30 | 232 | 7 | 86 | 23 | 267 |
 
 ## Release assets
 
@@ -96,4 +96,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:15:15Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:50:07Z._
