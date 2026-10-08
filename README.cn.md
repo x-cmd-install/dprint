@@ -14,11 +14,11 @@ x install dprint
 
 ## 代码洞察
 
-合计: **63,964** 行代码（覆盖前 5 种语言、共 **204** 个文件）。
+合计: **64,777** 行代码（覆盖前 5 种语言、共 **205** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 58,774 | 3,262 | 6,281 | 171 |
+| Rust | 59,586 | 3,304 | 6,373 | 172 |
 | JavaScript | 1,357 | 188 | 144 | 11 |
 | Sass | 1,134 | 34 | 60 | 2 |
 | TypeScript | 1,001 | 38 | 137 | 15 |
@@ -42,50 +42,50 @@ x install dprint
 
 ## 发布
 
-- **最新版本**: `0.60.1` (2026-10-03)
-- **最近提交**: 2026-10-06
+- **最新版本**: `0.61.1` (2026-10-07)
+- **最近提交**: 2026-10-07
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 4,088 · **Fork**: 119 · **开放 issue**: 564 · **贡献者**: 69
+- **Star**: 4,091 · **Fork**: 119 · **开放 issue**: 566 · **贡献者**: 69
 
 ## 累计统计
 
-- **发布数**: 152 · **已合并 PR**: 521 · **开放 PR**: 9 · **已关闭 issue**: 518 · **开放 issue**: 46 · **提交数**: 1405
+- **发布数**: 154 · **已合并 PR**: 524 · **开放 PR**: 9 · **已关闭 issue**: 520 · **开放 issue**: 46 · **提交数**: 1410
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 4 | 42 | 1 | 2 | 1 | 45 |
-| last60d | 2026-08-08 | 11 | 68 | 2 | 5 | 1 | 83 |
-| 90d | 2026-07-09 | 12 | 80 | 2 | 7 | 1 | 95 |
-| last180d | 2026-04-10 | 14 | 141 | 3 | 14 | 3 | 158 |
-| 360d | 2025-10-12 | 21 | 196 | 5 | 45 | 10 | 219 |
-| last720d | 2024-10-17 | 30 | 232 | 7 | 86 | 23 | 267 |
+| 30d | 2026-09-08 | 6 | 45 | 1 | 4 | 1 | 50 |
+| last60d | 2026-08-09 | 13 | 71 | 2 | 7 | 1 | 88 |
+| 90d | 2026-07-10 | 14 | 83 | 2 | 9 | 1 | 100 |
+| last180d | 2026-04-11 | 16 | 144 | 3 | 16 | 3 | 163 |
+| 360d | 2025-10-13 | 23 | 199 | 5 | 47 | 10 | 224 |
+| last720d | 2024-10-18 | 32 | 235 | 7 | 88 | 23 | 272 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [dprint-aarch64-apple-darwin.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-aarch64-apple-darwin.zip) | 9.2 MiB | `native/darwin/arm64` |
-| [dprint-aarch64-linux-android.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-aarch64-linux-android.zip) | 9.4 MiB | `native/linux/arm64` |
-| [dprint-aarch64-pc-windows-msvc.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-aarch64-pc-windows-msvc.zip) | 8.0 MiB | `native/win/arm64` |
-| [dprint-aarch64-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-aarch64-unknown-linux-gnu.zip) | 8.0 MiB | `native/linux/arm64/glibc` |
-| [dprint-aarch64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-aarch64-unknown-linux-musl.zip) | 10.1 MiB | `native/linux/arm64/musl` |
-| [dprint-loongarch64-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-loongarch64-unknown-linux-gnu.zip) | 9.6 MiB | `other` |
-| [dprint-loongarch64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-loongarch64-unknown-linux-musl.zip) | 9.6 MiB | `other` |
-| [dprint-powerpc64le-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-powerpc64le-unknown-linux-gnu.zip) | 11.1 MiB | `other` |
-| [dprint-powerpc64le-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-powerpc64le-unknown-linux-musl.zip) | 11.1 MiB | `other` |
-| [dprint-riscv64gc-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-riscv64gc-unknown-linux-gnu.zip) | 10.4 MiB | `native/linux/riscv64/glibc` |
-| [dprint-x86_64-apple-darwin.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-x86_64-apple-darwin.zip) | 10.0 MiB | `native/darwin/x64` |
-| [dprint-x86_64-linux-android.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-x86_64-linux-android.zip) | 10.3 MiB | `native/linux/x64` |
-| [dprint-x86_64-pc-windows-msvc-installer.exe](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-x86_64-pc-windows-msvc-installer.exe) | 9.4 MiB | `native/win/x64` |
-| [dprint-x86_64-pc-windows-msvc.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-x86_64-pc-windows-msvc.zip) | 9.0 MiB | `native/win/x64` |
-| [dprint-x86_64-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-x86_64-unknown-linux-gnu.zip) | 9.1 MiB | `native/linux/x64/glibc` |
-| [dprint-x86_64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.60.1/dprint-x86_64-unknown-linux-musl.zip) | 11.0 MiB | `native/linux/x64/musl` |
-| [SHASUMS256.txt](https://github.com/dprint/dprint/releases/download/0.60.1/SHASUMS256.txt) | 1.6 KiB | `other` |
+| [dprint-aarch64-apple-darwin.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-aarch64-apple-darwin.zip) | 9.2 MiB | `native/darwin/arm64` |
+| [dprint-aarch64-linux-android.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-aarch64-linux-android.zip) | 9.5 MiB | `native/linux/arm64` |
+| [dprint-aarch64-pc-windows-msvc.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-aarch64-pc-windows-msvc.zip) | 8.0 MiB | `native/win/arm64` |
+| [dprint-aarch64-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-aarch64-unknown-linux-gnu.zip) | 8.1 MiB | `native/linux/arm64/glibc` |
+| [dprint-aarch64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-aarch64-unknown-linux-musl.zip) | 10.2 MiB | `native/linux/arm64/musl` |
+| [dprint-loongarch64-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-loongarch64-unknown-linux-gnu.zip) | 9.6 MiB | `other` |
+| [dprint-loongarch64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-loongarch64-unknown-linux-musl.zip) | 9.6 MiB | `other` |
+| [dprint-powerpc64le-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-powerpc64le-unknown-linux-gnu.zip) | 11.2 MiB | `other` |
+| [dprint-powerpc64le-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-powerpc64le-unknown-linux-musl.zip) | 11.2 MiB | `other` |
+| [dprint-riscv64gc-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-riscv64gc-unknown-linux-gnu.zip) | 10.5 MiB | `native/linux/riscv64/glibc` |
+| [dprint-x86_64-apple-darwin.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-x86_64-apple-darwin.zip) | 10.0 MiB | `native/darwin/x64` |
+| [dprint-x86_64-linux-android.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-x86_64-linux-android.zip) | 10.3 MiB | `native/linux/x64` |
+| [dprint-x86_64-pc-windows-msvc-installer.exe](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-x86_64-pc-windows-msvc-installer.exe) | 9.4 MiB | `native/win/x64` |
+| [dprint-x86_64-pc-windows-msvc.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-x86_64-pc-windows-msvc.zip) | 9.0 MiB | `native/win/x64` |
+| [dprint-x86_64-unknown-linux-gnu.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-x86_64-unknown-linux-gnu.zip) | 9.1 MiB | `native/linux/x64/glibc` |
+| [dprint-x86_64-unknown-linux-musl.zip](https://github.com/dprint/dprint/releases/download/0.61.1/dprint-x86_64-unknown-linux-musl.zip) | 11.1 MiB | `native/linux/x64/musl` |
+| [SHASUMS256.txt](https://github.com/dprint/dprint/releases/download/0.61.1/SHASUMS256.txt) | 1.6 KiB | `other` |
 
 ## 改进这些数据
 
@@ -96,4 +96,4 @@ dprint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T05:50:07Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T05:57:10Z._
