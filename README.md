@@ -26,13 +26,13 @@ Total: **69,914** lines of code across **206** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.1 / 10**
+Overall score: **6.1 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/30 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
 
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,100 · **Forks**: 120 · **Open issues**: 570 · **Contributors**: 70
+- **Stars**: 4,102 · **Forks**: 120 · **Open issues**: 570 · **Contributors**: 70
 
 ## Totals (cumulative)
 
-- **Releases**: 156 · **Merged PRs**: 563 · **Open PRs**: 8 · **Closed issues**: 527 · **Open issues**: 43 · **Commits**: 1451
+- **Releases**: 156 · **Merged PRs**: 563 · **Open PRs**: 9 · **Closed issues**: 527 · **Open issues**: 43 · **Commits**: 1451
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 8 | 80 | 1 | 7 | 1 | 88 |
-| last60d | 2026-08-14 | 15 | 109 | 2 | 11 | 1 | 119 |
-| 90d | 2026-07-15 | 15 | 119 | 2 | 13 | 1 | 139 |
-| last180d | 2026-04-16 | 18 | 183 | 3 | 19 | 3 | 204 |
-| 360d | 2025-10-18 | 25 | 238 | 4 | 50 | 10 | 264 |
-| last720d | 2024-10-23 | 33 | 269 | 6 | 93 | 22 | 308 |
+| 30d | 2026-09-14 | 8 | 79 | 2 | 7 | 1 | 88 |
+| last60d | 2026-08-15 | 15 | 109 | 3 | 11 | 1 | 119 |
+| 90d | 2026-07-16 | 15 | 119 | 3 | 13 | 1 | 139 |
+| last180d | 2026-04-17 | 18 | 183 | 4 | 19 | 3 | 204 |
+| 360d | 2025-10-19 | 25 | 237 | 5 | 50 | 10 | 264 |
+| last720d | 2024-10-24 | 33 | 269 | 7 | 93 | 22 | 308 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:45:29Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:01:06Z._
