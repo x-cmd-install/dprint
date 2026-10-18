@@ -14,14 +14,14 @@ x install dprint
 
 ## Code insight
 
-Total: **69,914** lines of code across **206** files in the top 5 languages.
+Total: **74,326** lines of code across **211** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 64,676 | 3,620 | 6,795 | 173 |
-| JavaScript | 1,349 | 189 | 145 | 11 |
+| Rust | 69,094 | 3,805 | 7,126 | 178 |
+| JavaScript | 1,350 | 189 | 145 | 11 |
 | Sass | 1,134 | 34 | 60 | 2 |
-| TypeScript | 1,031 | 38 | 137 | 15 |
+| TypeScript | 1,019 | 41 | 137 | 15 |
 | Tsx | 560 | 11 | 70 | 5 |
 
 ## OpenSSF Scorecard
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.63.0` (2026-10-11)
-- **Last commit**: 2026-10-12
+- **Last commit**: 2026-10-18
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 4,104 · **Forks**: 120 · **Open issues**: 571 · **Contributors**: 70
+- **Stars**: 4,106 · **Forks**: 120 · **Open issues**: 571 · **Contributors**: 73
 
 ## Totals (cumulative)
 
-- **Releases**: 156 · **Merged PRs**: 563 · **Open PRs**: 9 · **Closed issues**: 528 · **Open issues**: 43 · **Commits**: 1451
+- **Releases**: 156 · **Merged PRs**: 578 · **Open PRs**: 3 · **Closed issues**: 542 · **Open issues**: 29 · **Commits**: 1466
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-17 | 8 | 79 | 2 | 8 | 1 | 88 |
-| last60d | 2026-08-18 | 15 | 104 | 3 | 11 | 1 | 119 |
-| 90d | 2026-07-19 | 15 | 119 | 3 | 14 | 1 | 139 |
-| last180d | 2026-04-20 | 18 | 183 | 4 | 20 | 3 | 204 |
-| 360d | 2025-10-22 | 25 | 237 | 5 | 51 | 10 | 264 |
-| last720d | 2024-10-27 | 33 | 268 | 7 | 94 | 22 | 308 |
+| 30d | 2026-09-18 | 8 | 91 | 0 | 8 | 1 | 103 |
+| last60d | 2026-08-19 | 14 | 115 | 1 | 11 | 1 | 130 |
+| 90d | 2026-07-20 | 15 | 131 | 1 | 14 | 1 | 152 |
+| last180d | 2026-04-21 | 18 | 196 | 1 | 22 | 1 | 219 |
+| 360d | 2025-10-23 | 25 | 251 | 1 | 55 | 5 | 279 |
+| last720d | 2024-10-28 | 32 | 282 | 1 | 104 | 12 | 320 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261017.yml` · 2026-10-17T04:17:56Z._
+_Snapshot: `data/card/261018.yml` · 2026-10-18T04:28:34Z._
