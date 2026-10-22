@@ -26,11 +26,11 @@ x install dprint
 
 ## OpenSSF Scorecard 评分
 
-总评分: **6.1 / 10**
+总评分: **6.2 / 10**
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -48,7 +48,7 @@ x install dprint
 
 ## 流行度
 
-- **Star**: 4,108 · **Fork**: 119 · **开放 issue**: 573 · **贡献者**: 73
+- **Star**: 4,109 · **Fork**: 119 · **开放 issue**: 573 · **贡献者**: 73
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install dprint
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 10 | 107 | 0 | 9 | 2 | 121 |
-| last60d | 2026-08-22 | 15 | 128 | 1 | 11 | 2 | 148 |
-| 90d | 2026-07-23 | 17 | 146 | 1 | 14 | 2 | 170 |
-| last180d | 2026-04-24 | 20 | 212 | 1 | 23 | 2 | 237 |
-| 360d | 2025-10-26 | 27 | 267 | 1 | 56 | 6 | 297 |
-| last720d | 2024-10-31 | 34 | 298 | 1 | 107 | 11 | 338 |
+| 30d | 2026-09-22 | 10 | 107 | 0 | 9 | 2 | 121 |
+| last60d | 2026-08-23 | 15 | 128 | 1 | 11 | 2 | 148 |
+| 90d | 2026-07-24 | 17 | 146 | 1 | 14 | 2 | 170 |
+| last180d | 2026-04-25 | 20 | 212 | 1 | 23 | 2 | 237 |
+| 360d | 2025-10-27 | 27 | 267 | 1 | 56 | 6 | 297 |
+| last720d | 2024-11-01 | 34 | 298 | 1 | 107 | 11 | 338 |
 
 ## Release 资产
 
@@ -100,4 +100,4 @@ dprint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261021.yml` · 2026-10-21T04:43:50Z._
+_数据快照: `data/card/261022.yml` · 2026-10-22T04:34:46Z._

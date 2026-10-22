@@ -26,11 +26,11 @@ Total: **75,340** lines of code across **212** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.1 / 10**
+Overall score: **6.2 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
+- **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 - **Fuzzing** (0/10) — project is not fuzzed
 
@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,108 · **Forks**: 119 · **Open issues**: 573 · **Contributors**: 73
+- **Stars**: 4,109 · **Forks**: 119 · **Open issues**: 573 · **Contributors**: 73
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 10 | 107 | 0 | 9 | 2 | 121 |
-| last60d | 2026-08-22 | 15 | 128 | 1 | 11 | 2 | 148 |
-| 90d | 2026-07-23 | 17 | 146 | 1 | 14 | 2 | 170 |
-| last180d | 2026-04-24 | 20 | 212 | 1 | 23 | 2 | 237 |
-| 360d | 2025-10-26 | 27 | 267 | 1 | 56 | 6 | 297 |
-| last720d | 2024-10-31 | 34 | 298 | 1 | 107 | 11 | 338 |
+| 30d | 2026-09-22 | 10 | 107 | 0 | 9 | 2 | 121 |
+| last60d | 2026-08-23 | 15 | 128 | 1 | 11 | 2 | 148 |
+| 90d | 2026-07-24 | 17 | 146 | 1 | 14 | 2 | 170 |
+| last180d | 2026-04-25 | 20 | 212 | 1 | 23 | 2 | 237 |
+| 360d | 2025-10-27 | 27 | 267 | 1 | 56 | 6 | 297 |
+| last720d | 2024-11-01 | 34 | 298 | 1 | 107 | 11 | 338 |
 
 ## Release assets
 
@@ -100,4 +100,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:43:50Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:34:45Z._
