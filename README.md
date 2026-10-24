@@ -14,11 +14,11 @@ x install dprint
 
 ## Code insight
 
-Total: **75,639** lines of code across **212** files in the top 5 languages.
+Total: **76,652** lines of code across **212** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 70,397 | 3,923 | 7,213 | 179 |
+| Rust | 71,410 | 3,982 | 7,274 | 179 |
 | JavaScript | 1,349 | 189 | 145 | 11 |
 | Sass | 1,134 | 34 | 60 | 2 |
 | TypeScript | 1,021 | 42 | 137 | 15 |
@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,109 · **Forks**: 120 · **Open issues**: 575 · **Contributors**: 74
+- **Stars**: 4,110 · **Forks**: 120 · **Open issues**: 578 · **Contributors**: 74
 
 ## Totals (cumulative)
 
-- **Releases**: 160 · **Merged PRs**: 600 · **Open PRs**: 4 · **Closed issues**: 550 · **Open issues**: 25 · **Commits**: 1493
+- **Releases**: 160 · **Merged PRs**: 603 · **Open PRs**: 4 · **Closed issues**: 550 · **Open issues**: 28 · **Commits**: 1496
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 12 | 113 | 1 | 10 | 3 | 130 |
-| last60d | 2026-08-24 | 17 | 134 | 2 | 12 | 3 | 157 |
-| 90d | 2026-07-25 | 19 | 152 | 2 | 15 | 3 | 179 |
-| last180d | 2026-04-26 | 22 | 217 | 2 | 24 | 3 | 246 |
-| 360d | 2025-10-28 | 29 | 273 | 2 | 57 | 7 | 306 |
-| last720d | 2024-11-02 | 36 | 304 | 2 | 108 | 12 | 347 |
+| 30d | 2026-09-24 | 12 | 116 | 1 | 10 | 6 | 133 |
+| last60d | 2026-08-25 | 17 | 136 | 2 | 12 | 6 | 160 |
+| 90d | 2026-07-26 | 19 | 154 | 2 | 15 | 6 | 182 |
+| last180d | 2026-04-27 | 22 | 220 | 2 | 24 | 6 | 249 |
+| 360d | 2025-10-29 | 29 | 276 | 2 | 56 | 10 | 309 |
+| last720d | 2024-11-03 | 36 | 307 | 2 | 108 | 15 | 350 |
 
 ## Release assets
 
@@ -93,12 +93,12 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **23** distros on [repology.org](https://repology.org/project/dprint). **2** are ✅ on the latest upstream release, **19** are ⚠️ on an older version.
+Reported by **23** distros on [repology.org](https://repology.org/project/dprint). **4** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.61.1` | ⚠️ outdated |
-| Homebrew | `0.64.2` | ✅ latest |
+| Arch | `0.63.0` | ⚠️ outdated |
+| Homebrew | `0.64.3` | ✅ latest |
 | Nix unstable | `0.61.1` | ⚠️ outdated |
 | Alpine edge | `0.51.1` | ⚠️ outdated |
 
@@ -111,4 +111,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:47:47Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:31:36Z._
