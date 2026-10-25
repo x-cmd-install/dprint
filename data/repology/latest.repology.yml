@@ -1,3 +1,43 @@
+- repo: scoop
+  subrepo: main
+  binname: dprint
+  visiblename: dprint
+  version: 0.64.3
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: wikidata
+  srcname: Q141620684
+  visiblename: dprint
+  version: 0.64.3
+  origversion: null
+  status: newest
+  summary: pluggable and configurable code formatting platform
+  licenses:
+    - MIT License
+- repo: nix_stable_24_05
+  srcname: dprint
+  visiblename: dprint
+  version: 0.45.1
+  origversion: null
+  status: outdated
+  summary: Code formatting platform written in Rust
+  maintainers:
+    - khushraj.rathod@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: dprint
+  visiblename: dprint
+  version: 0.47.2
+  origversion: null
+  status: outdated
+  summary: Code formatting platform written in Rust
+  maintainers:
+    - khushraj.rathod@gmail.com
+  licenses:
+    - MIT
 - repo: alpine_edge
   subrepo: testing
   srcname: dprint
@@ -159,28 +199,6 @@
   summary: Pluggable and configurable code formatting platform
   licenses:
     - MIT
-- repo: nix_stable_24_05
-  srcname: dprint
-  visiblename: dprint
-  version: 0.45.1
-  origversion: null
-  status: outdated
-  summary: Code formatting platform written in Rust
-  maintainers:
-    - khushraj.rathod@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: dprint
-  visiblename: dprint
-  version: 0.47.2
-  origversion: null
-  status: outdated
-  summary: Code formatting platform written in Rust
-  maintainers:
-    - khushraj.rathod@gmail.com
-  licenses:
-    - MIT
 - repo: nix_stable_25_05
   srcname: dprint
   visiblename: dprint
@@ -222,7 +240,7 @@
 - repo: nix_unstable
   srcname: dprint
   visiblename: dprint
-  version: 0.61.1
+  version: 0.64.1
   origversion: null
   status: outdated
   summary: Code formatting platform written in Rust
@@ -242,21 +260,3 @@
   summary: Pluggable and configurable code formatting platform
   licenses:
     - MIT
-- repo: scoop
-  subrepo: main
-  binname: dprint
-  visiblename: dprint
-  version: 0.64.3
-  origversion: null
-  status: newest
-  licenses:
-    - MIT
-- repo: wikidata
-  srcname: Q141620684
-  visiblename: dprint
-  version: 0.64.3
-  origversion: null
-  status: newest
-  summary: pluggable and configurable code formatting platform
-  licenses:
-    - MIT License
