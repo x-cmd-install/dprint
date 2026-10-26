@@ -1,41 +1,12 @@
-- repo: scoop
-  subrepo: main
+- repo: arch_testing
+  subrepo: extra-testing
+  srcname: dprint
   binname: dprint
   visiblename: dprint
   version: 0.64.3
-  origversion: null
+  origversion: 0.64.3-1
   status: newest
-  licenses:
-    - MIT
-- repo: wikidata
-  srcname: Q141620684
-  visiblename: dprint
-  version: 0.64.3
-  origversion: null
-  status: newest
-  summary: pluggable and configurable code formatting platform
-  licenses:
-    - MIT License
-- repo: nix_stable_24_05
-  srcname: dprint
-  visiblename: dprint
-  version: 0.45.1
-  origversion: null
-  status: outdated
-  summary: Code formatting platform written in Rust
-  maintainers:
-    - khushraj.rathod@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: dprint
-  visiblename: dprint
-  version: 0.47.2
-  origversion: null
-  status: outdated
-  summary: Code formatting platform written in Rust
-  maintainers:
-    - khushraj.rathod@gmail.com
+  summary: Pluggable and configurable code formatting platform
   licenses:
     - MIT
 - repo: alpine_edge
@@ -114,17 +85,6 @@
   summary: Pluggable and configurable code formatting platform
   licenses:
     - MIT
-- repo: arch_testing
-  subrepo: extra-testing
-  srcname: dprint
-  binname: dprint
-  visiblename: dprint
-  version: 0.64.3
-  origversion: 0.64.3-1
-  status: newest
-  summary: Pluggable and configurable code formatting platform
-  licenses:
-    - MIT
 - repo: aur
   srcname: dprint-git
   binname: dprint-git
@@ -199,6 +159,28 @@
   summary: Pluggable and configurable code formatting platform
   licenses:
     - MIT
+- repo: nix_stable_24_05
+  srcname: dprint
+  visiblename: dprint
+  version: 0.45.1
+  origversion: null
+  status: outdated
+  summary: Code formatting platform written in Rust
+  maintainers:
+    - khushraj.rathod@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: dprint
+  visiblename: dprint
+  version: 0.47.2
+  origversion: null
+  status: outdated
+  summary: Code formatting platform written in Rust
+  maintainers:
+    - khushraj.rathod@gmail.com
+  licenses:
+    - MIT
 - repo: nix_stable_25_05
   srcname: dprint
   visiblename: dprint
@@ -228,7 +210,7 @@
 - repo: nix_stable_26_05
   srcname: dprint
   visiblename: dprint
-  version: 0.54.0
+  version: 0.61.1
   origversion: null
   status: outdated
   summary: Code formatting platform written in Rust
@@ -260,3 +242,21 @@
   summary: Pluggable and configurable code formatting platform
   licenses:
     - MIT
+- repo: scoop
+  subrepo: main
+  binname: dprint
+  visiblename: dprint
+  version: 0.64.3
+  origversion: null
+  status: newest
+  licenses:
+    - MIT
+- repo: wikidata
+  srcname: Q141620684
+  visiblename: dprint
+  version: 0.64.3
+  origversion: null
+  status: newest
+  summary: pluggable and configurable code formatting platform
+  licenses:
+    - MIT License
