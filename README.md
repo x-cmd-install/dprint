@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,119 · **Forks**: 121 · **Open issues**: 581 · **Contributors**: 74
+- **Stars**: 4,121 · **Forks**: 121 · **Open issues**: 581 · **Contributors**: 74
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-30 | 11 | 114 | 2 | 11 | 8 | 112 |
-| last60d | 2026-08-31 | 16 | 135 | 3 | 13 | 8 | 154 |
-| 90d | 2026-08-01 | 19 | 158 | 3 | 16 | 8 | 184 |
-| last180d | 2026-05-03 | 22 | 225 | 3 | 25 | 8 | 253 |
-| 360d | 2025-11-04 | 29 | 281 | 3 | 57 | 12 | 313 |
-| last720d | 2024-11-09 | 36 | 312 | 3 | 108 | 17 | 354 |
+| 30d | 2026-10-01 | 11 | 98 | 2 | 11 | 8 | 112 |
+| last60d | 2026-09-01 | 16 | 135 | 3 | 13 | 8 | 154 |
+| 90d | 2026-08-02 | 19 | 158 | 3 | 16 | 8 | 184 |
+| last180d | 2026-05-04 | 22 | 225 | 3 | 25 | 8 | 253 |
+| 360d | 2025-11-05 | 29 | 281 | 3 | 57 | 12 | 313 |
+| last720d | 2024-11-10 | 36 | 312 | 3 | 108 | 17 | 354 |
 
 ## Release assets
 
@@ -93,11 +93,11 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **23** distros on [repology.org](https://repology.org/project/dprint). **4** are ✅ on the latest upstream release, **17** are ⚠️ on an older version.
+Reported by **22** distros on [repology.org](https://repology.org/project/dprint). **5** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Arch | `0.63.0` | ⚠️ outdated |
+| Arch | `0.64.3` | ✅ latest |
 | Homebrew | `0.64.3` | ✅ latest |
 | Nix unstable | `0.64.1` | ⚠️ outdated |
 | Alpine edge | `0.51.1` | ⚠️ outdated |
@@ -111,4 +111,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261030.yml` · 2026-10-30T05:39:22Z._
+_Snapshot: `data/card/261031.yml` · 2026-10-31T05:29:01Z._
