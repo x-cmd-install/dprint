@@ -14,14 +14,14 @@ x install dprint
 
 ## Code insight
 
-Total: **77,288** lines of code across **215** files in the top 5 languages.
+Total: **77,701** lines of code across **216** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 72,042 | 4,009 | 7,317 | 182 |
-| JavaScript | 1,349 | 190 | 145 | 11 |
+| Rust | 72,353 | 4,023 | 7,350 | 183 |
+| JavaScript | 1,422 | 201 | 149 | 11 |
 | Sass | 1,134 | 34 | 60 | 2 |
-| TypeScript | 1,025 | 42 | 137 | 15 |
+| TypeScript | 1,050 | 47 | 143 | 15 |
 | Tsx | 560 | 11 | 70 | 5 |
 
 ## OpenSSF Scorecard
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.64.3` (2026-10-23)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-02
 - **Assets in release**: 21
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 160 · **Merged PRs**: 614 · **Open PRs**: 5 · **Closed issues**: 552 · **Open issues**: 29 · **Commits**: 1506
+- **Releases**: 160 · **Merged PRs**: 619 · **Open PRs**: 6 · **Closed issues**: 552 · **Open issues**: 29 · **Commits**: 1511
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 11 | 103 | 2 | 10 | 8 | 95 |
-| last60d | 2026-09-02 | 16 | 141 | 3 | 13 | 8 | 148 |
-| 90d | 2026-08-03 | 19 | 160 | 3 | 16 | 8 | 184 |
-| last180d | 2026-05-05 | 22 | 231 | 3 | 25 | 8 | 259 |
-| 360d | 2025-11-06 | 29 | 287 | 3 | 57 | 12 | 319 |
-| last720d | 2024-11-11 | 36 | 318 | 3 | 108 | 17 | 360 |
+| 30d | 2026-10-03 | 10 | 97 | 3 | 9 | 8 | 100 |
+| last60d | 2026-09-03 | 16 | 142 | 4 | 12 | 8 | 153 |
+| 90d | 2026-08-04 | 19 | 163 | 4 | 16 | 8 | 189 |
+| last180d | 2026-05-06 | 22 | 236 | 4 | 25 | 8 | 264 |
+| 360d | 2025-11-07 | 29 | 292 | 4 | 57 | 12 | 324 |
+| last720d | 2024-11-12 | 36 | 323 | 4 | 108 | 17 | 365 |
 
 ## Release assets
 
@@ -93,14 +93,13 @@ Lowest-scoring checks:
 
 ## Distribution status
 
-Reported by **22** distros on [repology.org](https://repology.org/project/dprint). **5** are ✅ on the latest upstream release, **15** are ⚠️ on an older version.
+Reported by **17** distros on [repology.org](https://repology.org/project/dprint). **5** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Arch | `0.64.3` | ✅ latest |
 | Homebrew | `0.64.3` | ✅ latest |
 | Nix unstable | `0.64.1` | ⚠️ outdated |
-| Alpine edge | `0.51.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -111,4 +110,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T05:54:55Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:02:02Z._
