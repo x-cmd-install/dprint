@@ -1,3 +1,17 @@
+- repo: homebrew
+  srcname: dprint
+  visiblename: dprint
+  version: 0.64.3
+  origversion: null
+  status: newest
+  summary: Pluggable and configurable code formatting platform written in Rust
+- repo: homebrew
+  srcname: dprint
+  visiblename: dprint
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Pluggable and configurable code formatting platform written in Rust
 - repo: arch
   subrepo: extra
   srcname: dprint
@@ -21,20 +35,6 @@
     - chocobo1@aur
   licenses:
     - MIT
-- repo: homebrew
-  srcname: dprint
-  visiblename: dprint
-  version: 0.64.3
-  origversion: null
-  status: newest
-  summary: Pluggable and configurable code formatting platform written in Rust
-- repo: homebrew
-  srcname: dprint
-  visiblename: dprint
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Pluggable and configurable code formatting platform written in Rust
 - repo: macports
   srcname: devel/dprint
   binname: dprint
@@ -124,9 +124,9 @@
 - repo: nix_unstable
   srcname: dprint
   visiblename: dprint
-  version: 0.64.1
+  version: 0.64.3
   origversion: null
-  status: outdated
+  status: newest
   summary: Code formatting platform written in Rust
   maintainers:
     - kachick1@gmail.com
