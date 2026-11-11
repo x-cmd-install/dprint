@@ -14,11 +14,11 @@ x install dprint
 
 ## Code insight
 
-Total: **80,527** lines of code across **232** files in the top 5 languages.
+Total: **80,721** lines of code across **233** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 72,819 | 4,041 | 7,387 | 185 |
+| Rust | 73,013 | 4,051 | 7,400 | 186 |
 | TypeScript | 3,154 | 327 | 346 | 28 |
 | Sass | 1,529 | 54 | 70 | 2 |
 | JavaScript | 1,220 | 202 | 124 | 12 |
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.64.3` (2026-10-23)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-10
 - **Assets in release**: 21
 
 ## Popularity
 
-- **Stars**: 4,132 · **Forks**: 120 · **Open issues**: 583 · **Contributors**: 74
+- **Stars**: 4,135 · **Forks**: 120 · **Open issues**: 584 · **Contributors**: 74
 
 ## Totals (cumulative)
 
-- **Releases**: 160 · **Merged PRs**: 648 · **Open PRs**: 6 · **Closed issues**: 554 · **Open issues**: 29 · **Commits**: 1540
+- **Releases**: 160 · **Merged PRs**: 650 · **Open PRs**: 7 · **Closed issues**: 554 · **Open issues**: 30 · **Commits**: 1542
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 6 | 82 | 3 | 6 | 7 | 89 |
-| last60d | 2026-09-11 | 12 | 162 | 3 | 13 | 8 | 177 |
-| 90d | 2026-08-12 | 19 | 191 | 4 | 17 | 8 | 217 |
-| last180d | 2026-05-14 | 22 | 264 | 4 | 27 | 8 | 291 |
-| 360d | 2025-11-15 | 29 | 320 | 4 | 59 | 12 | 353 |
-| last720d | 2024-11-20 | 36 | 350 | 4 | 108 | 17 | 394 |
+| 30d | 2026-10-12 | 4 | 83 | 4 | 6 | 8 | 91 |
+| last60d | 2026-09-12 | 12 | 164 | 4 | 13 | 9 | 179 |
+| 90d | 2026-08-13 | 19 | 193 | 5 | 17 | 9 | 219 |
+| last180d | 2026-05-15 | 22 | 266 | 5 | 27 | 9 | 293 |
+| 360d | 2025-11-16 | 29 | 322 | 5 | 59 | 12 | 355 |
+| last720d | 2024-11-21 | 36 | 352 | 5 | 108 | 18 | 396 |
 
 ## Release assets
 
@@ -110,4 +110,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T07:16:40Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T06:10:19Z._
