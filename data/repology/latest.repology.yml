@@ -1,15 +1,15 @@
-- repo: nix_stable_24_05
+- repo: manjaro_unstable
+  subrepo: extra
   srcname: dprint
+  binname: dprint
   visiblename: dprint
-  version: 0.45.1
-  origversion: null
-  status: outdated
-  summary: Code formatting platform written in Rust
-  maintainers:
-    - khushraj.rathod@gmail.com
+  version: 0.65.0
+  origversion: 0.65.0-1
+  status: newest
+  summary: Pluggable and configurable code formatting platform
   licenses:
     - MIT
-- repo: arch
+- repo: manjaro_testing
   subrepo: extra
   srcname: dprint
   binname: dprint
@@ -17,6 +17,17 @@
   version: 0.64.3
   origversion: 0.64.3-1
   status: outdated
+  summary: Pluggable and configurable code formatting platform
+  licenses:
+    - MIT
+- repo: arch
+  subrepo: extra
+  srcname: dprint
+  binname: dprint
+  visiblename: dprint
+  version: 0.65.0
+  origversion: 0.65.0-1
+  status: newest
   summary: Pluggable and configurable code formatting platform
   licenses:
     - MIT
@@ -72,26 +83,15 @@
   summary: Pluggable and configurable code formatting platform
   licenses:
     - MIT
-- repo: manjaro_testing
-  subrepo: extra
+- repo: nix_stable_24_05
   srcname: dprint
-  binname: dprint
   visiblename: dprint
-  version: 0.64.3
-  origversion: 0.64.3-1
+  version: 0.45.1
+  origversion: null
   status: outdated
-  summary: Pluggable and configurable code formatting platform
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: dprint
-  binname: dprint
-  visiblename: dprint
-  version: 0.64.3
-  origversion: 0.64.3-1
-  status: outdated
-  summary: Pluggable and configurable code formatting platform
+  summary: Code formatting platform written in Rust
+  maintainers:
+    - khushraj.rathod@gmail.com
   licenses:
     - MIT
 - repo: nix_stable_24_11
@@ -178,9 +178,9 @@
 - repo: wikidata
   srcname: Q141620684
   visiblename: dprint
-  version: 0.64.3
+  version: 0.65.0
   origversion: null
-  status: outdated
+  status: newest
   summary: pluggable and configurable code formatting platform
   licenses:
     - MIT License
