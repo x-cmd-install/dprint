@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 11353938,
       "digest": "sha256:5e57a5e75f5d29d1f9dcc10255fccb9815031f4720fe6759643d0ee12cf201f2",
-      "download_count": 451,
+      "download_count": 566,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:26Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-aarch64-apple-darwin.zip"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11850393,
       "digest": "sha256:42145b20fe651bad58ce8a01473bbf6bf7c50447012311c329642c409927e1f6",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-aarch64-linux-android.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 10033370,
       "digest": "sha256:350e2e9c021f5f034796de9330a665346d50b72de892d04bb85db0d073b39112",
-      "download_count": 48,
+      "download_count": 59,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-aarch64-pc-windows-msvc.zip"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 12496869,
       "digest": "sha256:843a286b93db221e70d94f7f991f5a053f02222391de9eb15ab755f6c1be2b5b",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-aarch64-unknown-freebsd.zip"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 10129064,
       "digest": "sha256:804535e54f431674f5481725ba5d4718de0a7398d6abd33b899fd734f6d98062",
-      "download_count": 510,
+      "download_count": 769,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-aarch64-unknown-linux-gnu.zip"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 12679355,
       "digest": "sha256:a427ef844b300d896b3f836706bb77d8df6b77f8f2627103c4a34ded94cf6ae1",
-      "download_count": 143,
+      "download_count": 212,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-aarch64-unknown-linux-musl.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 12075653,
       "digest": "sha256:549ad89d5047f5dba1f2697f6e64523055ca970faa1251ad794d185140892f70",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-loongarch64-unknown-linux-gnu.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 12084920,
       "digest": "sha256:4aa4207d7739d17870959279652e9c16c2bdadb089bc073343065a7d492afd76",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-loongarch64-unknown-linux-musl.zip"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 13948848,
       "digest": "sha256:66de75206b1b5605a9c9f22d5e74a6ae140d78e6886977d1402d3243c43160b6",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-powerpc64le-unknown-linux-gnu.zip"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 13890180,
       "digest": "sha256:3bcaec88382d72d40c774f8e610371d3842b72497d179723fcbe1dfed09040e1",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-powerpc64le-unknown-linux-musl.zip"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 13095387,
       "digest": "sha256:d01a42eee2853c0dc9f82ac4a0936caf1697df7ff110ac293150590af37765c3",
-      "download_count": 18,
+      "download_count": 25,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-riscv64gc-unknown-linux-gnu.zip"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 13070885,
       "digest": "sha256:bf9c8bb9d8e645f02730569b227fc29b78b289c3b141321ed1d5f0842d2adccc",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-riscv64gc-unknown-linux-musl.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 12904173,
       "digest": "sha256:b8a2a4e9682b5c50e578ae728d475ff975b22b347f90840cb9f7029c204a8b51",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-s390x-unknown-linux-gnu.zip"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 12378774,
       "digest": "sha256:b94e2ede59904f34f8047ee9f069767acf19df389b3983f4b97a4fd64f5fcf15",
-      "download_count": 150,
+      "download_count": 192,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-x86_64-apple-darwin.zip"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 12960021,
       "digest": "sha256:fc801196d0a437284d62047d586d74c53b42aa1f2fcd6e4139612eddff554564",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:26Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-x86_64-linux-android.zip"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 11703874,
       "digest": "sha256:afd9750f7fcce375f8e26618a9ec7aff8bbcb6206f934763ea957510d355f2de",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-x86_64-pc-windows-msvc-installer.exe"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 11284237,
       "digest": "sha256:83bc6c5df42d6001062a71ac475ceb5be119472af6afb3fce52ff13ed042db77",
-      "download_count": 589,
+      "download_count": 750,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:26Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-x86_64-pc-windows-msvc.zip"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 13631972,
       "digest": "sha256:ea508181562fcabaee8f684b006344f6213b1cbe0659cfd5f5584c55f703ddf6",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-x86_64-unknown-freebsd.zip"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 11427722,
       "digest": "sha256:d1aaf0c6d015931b860804eda5bf7fac9d29e2253351b7d6b0177e6b03a8776d",
-      "download_count": 7664,
+      "download_count": 9782,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:26Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-x86_64-unknown-linux-gnu.zip"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 13757413,
       "digest": "sha256:61707303f4305891fecffec1f92ec8243b07e9d3ba8a7e81f7543fc77fb0002d",
-      "download_count": 496,
+      "download_count": 766,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/dprint-x86_64-unknown-linux-musl.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 29007,
       "digest": "sha256:e0b278afb1ff16ccad56e37163796ac51d1ef85cd310fe92d89eba21e96855ad",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:25Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/packslip.sigstore.json"
@@ -823,7 +823,7 @@
       "state": "uploaded",
       "size": 2038,
       "digest": "sha256:c1af8c862b8aef2e5c9e771145e8520f5510c8a8c6a832f1b19ed2152ddbd158",
-      "download_count": 160,
+      "download_count": 212,
       "created_at": "2026-11-16T22:59:24Z",
       "updated_at": "2026-11-16T22:59:24Z",
       "browser_download_url": "https://github.com/dprint/dprint/releases/download/0.65.0/SHASUMS256.txt"
