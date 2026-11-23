@@ -26,7 +26,7 @@ Total: **104,935** lines of code across **246** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **6.1 / 10**
+Overall score: **7 / 10**
 
 Lowest-scoring checks:
 
@@ -43,27 +43,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.65.0` (2026-11-16)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-22
 - **Assets in release**: 22
 
 ## Popularity
 
-- **Stars**: 4,146 · **Forks**: 121 · **Open issues**: 584 · **Contributors**: 74
+- **Stars**: 4,148 · **Forks**: 121 · **Open issues**: 584 · **Contributors**: 75
 
 ## Totals (cumulative)
 
-- **Releases**: 161 · **Merged PRs**: 655 · **Open PRs**: 5 · **Closed issues**: 558 · **Open issues**: 26 · **Commits**: 1548
+- **Releases**: 161 · **Merged PRs**: 656 · **Open PRs**: 4 · **Closed issues**: 558 · **Open issues**: 26 · **Commits**: 1549
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-23 | 3 | 51 | 2 | 5 | 1 | 48 |
-| last60d | 2026-09-23 | 13 | 168 | 2 | 17 | 5 | 178 |
-| 90d | 2026-08-24 | 18 | 189 | 3 | 19 | 5 | 204 |
-| last180d | 2026-05-26 | 23 | 268 | 3 | 30 | 5 | 296 |
-| 360d | 2025-11-27 | 30 | 327 | 3 | 63 | 6 | 358 |
-| last720d | 2024-12-02 | 36 | 357 | 3 | 107 | 13 | 399 |
+| 30d | 2026-10-24 | 1 | 51 | 1 | 5 | 1 | 49 |
+| last60d | 2026-09-24 | 13 | 169 | 1 | 17 | 5 | 179 |
+| 90d | 2026-08-25 | 18 | 189 | 2 | 19 | 5 | 205 |
+| last180d | 2026-05-27 | 23 | 269 | 2 | 30 | 5 | 297 |
+| 360d | 2025-11-28 | 30 | 328 | 2 | 63 | 6 | 359 |
+| last720d | 2024-12-03 | 36 | 358 | 2 | 106 | 13 | 399 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261122.yml` · 2026-11-22T06:48:27Z._
+_Snapshot: `data/card/261123.yml` · 2026-11-23T08:50:15Z._
