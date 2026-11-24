@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 4,148 · **Forks**: 121 · **Open issues**: 584 · **Contributors**: 75
+- **Stars**: 4,149 · **Forks**: 121 · **Open issues**: 584 · **Contributors**: 75
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 1 | 51 | 1 | 5 | 1 | 49 |
-| last60d | 2026-09-24 | 13 | 169 | 1 | 17 | 5 | 179 |
-| 90d | 2026-08-25 | 18 | 189 | 2 | 19 | 5 | 205 |
-| last180d | 2026-05-27 | 23 | 269 | 2 | 30 | 5 | 297 |
-| 360d | 2025-11-28 | 30 | 328 | 2 | 63 | 6 | 359 |
-| last720d | 2024-12-03 | 36 | 358 | 2 | 106 | 13 | 399 |
+| 30d | 2026-10-25 | 1 | 48 | 1 | 5 | 1 | 49 |
+| last60d | 2026-09-25 | 13 | 169 | 1 | 17 | 5 | 179 |
+| 90d | 2026-08-26 | 18 | 187 | 2 | 19 | 5 | 205 |
+| last180d | 2026-05-28 | 23 | 268 | 2 | 30 | 5 | 297 |
+| 360d | 2025-11-29 | 30 | 327 | 2 | 62 | 6 | 359 |
+| last720d | 2024-12-04 | 36 | 358 | 2 | 106 | 13 | 399 |
 
 ## Release assets
 
@@ -111,4 +111,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T08:50:15Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T10:47:31Z._
