@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `0.65.0` (2026-11-16)
-- **Last commit**: 2026-11-22
+- **Last commit**: 2026-11-25
 - **Assets in release**: 22
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 161 · **Merged PRs**: 656 · **Open PRs**: 7 · **Closed issues**: 558 · **Open issues**: 26 · **Commits**: 1549
+- **Releases**: 161 · **Merged PRs**: 657 · **Open PRs**: 6 · **Closed issues**: 558 · **Open issues**: 26 · **Commits**: 1550
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 48 | 4 | 4 | 1 | 49 |
-| last60d | 2026-09-26 | 13 | 169 | 4 | 17 | 5 | 179 |
-| 90d | 2026-08-27 | 18 | 187 | 5 | 19 | 5 | 205 |
-| last180d | 2026-05-29 | 23 | 267 | 5 | 30 | 5 | 297 |
-| 360d | 2025-11-30 | 30 | 327 | 5 | 62 | 6 | 359 |
-| last720d | 2024-12-05 | 36 | 358 | 5 | 106 | 13 | 399 |
+| 30d | 2026-10-27 | 1 | 47 | 3 | 3 | 1 | 0 |
+| last60d | 2026-09-27 | 13 | 168 | 3 | 17 | 5 | 0 |
+| 90d | 2026-08-28 | 18 | 188 | 4 | 19 | 5 | 0 |
+| last180d | 2026-05-30 | 23 | 268 | 4 | 30 | 5 | 0 |
+| 360d | 2025-12-01 | 30 | 326 | 4 | 61 | 6 | 0 |
+| last720d | 2024-12-06 | 36 | 359 | 4 | 106 | 13 | 400 |
 
 ## Release assets
 
@@ -92,16 +92,6 @@ Lowest-scoring checks:
 | [packslip.sigstore.json](https://github.com/dprint/dprint/releases/download/0.65.0/packslip.sigstore.json) | 28.3 KiB | `other` |
 | [SHASUMS256.txt](https://github.com/dprint/dprint/releases/download/0.65.0/SHASUMS256.txt) | 2.0 KiB | `other` |
 
-## Distribution status
-
-Reported by **17** distros on [repology.org](https://repology.org/project/dprint). **5** are ✅ on the latest upstream release, **10** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Arch | `0.65.0` | ✅ latest |
-| Homebrew | `0.65.0` | ✅ latest |
-| Nix unstable | `0.64.3` | ⚠️ outdated |
-
 ## Improve this data
 
 Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dprint` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -111,4 +101,4 @@ Install metadata for dprint lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:30:36Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:10:45Z._
